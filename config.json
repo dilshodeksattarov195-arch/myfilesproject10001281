@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionuncrypt",
+        "uuid": 7265832,
+        "checksum": "bel5tg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
